@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import AboutMe from './pages/AboutMe';
 import Portfolio from './pages/Portfolio';
-import Blog from './pages/Blog';
+import Blog from './pages/Contact';
 import Resume from './pages/Resume';
 
 export default function PortfolioContainer() {
