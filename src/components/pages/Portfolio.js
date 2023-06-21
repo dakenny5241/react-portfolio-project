@@ -1,17 +1,17 @@
 import React from 'react';
 import FriendCard from "../FriendCard";
-import friends from "../../friends.json";
+import projects from "../../projects.json";
 export default function Portfolio() {
   return (
     <div>
-      {friends.map(friend => (
+      {projects.map(project => (
         <FriendCard
-          id={friend.id}
-          key={friend.id}
-          title={friend.title}
-          image={friend.image}
-          occupation={friend.occupation}
-          location={friend.location}
+          id={project.id}
+          key={project.id}
+          title={project.title}
+          image={project.image}
+          occupation={project.occupation}
+          location={project.location}
         />
       ))}
     </div>
