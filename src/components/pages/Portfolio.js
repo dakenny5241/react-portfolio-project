@@ -10,8 +10,8 @@ export default function Portfolio() {
           key={project.id}
           title={project.title}
           image={project.image}
-          occupation={project.occupation}
-          location={project.location}
+          github repo={project.githubRepo}
+          application link={project.applicationlink}
         />
       ))}
     </div>
