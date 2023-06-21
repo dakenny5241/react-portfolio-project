@@ -3,20 +3,18 @@ import React from 'react';
 export default function Contact() {
   return (
     <div>
-      <h1>Contact Page</h1>
-      <section>
+    <section id="contact">
+          <h2>Contact</h2>
           <form>
-         <label htmlFor="name">Name:</label>
-         <input type="text" name="name" id="name" required />
-         <label htmlFor="email">Email:</label>
-         <input type="email" name="email" id="email" required />
-         <label htmlFor="message">Message:</label>  
-         <textarea name="message" id="message" required></textarea>
-         <input type="submit" value="Send Message" />
+            <label for="name">Name:</label>
+            <input type="text" name="name" required />
+            <label for="email">Email:</label>
+            <input type="email" name="email" required />
+            <label for="message">Message:</label>
+            <textarea name="message" required></textarea>
+            <input type="submit" value="Send Message" />
           </form>
-        </section>
-
-      
+        </section>   
       <p></p>
     </div>
   );
