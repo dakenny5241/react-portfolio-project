@@ -42,6 +42,6 @@
   cursor: pointer;
 }
 
-.card > .remove:hover {
+.card > .:remove:hover {
   color: #d50000;
 }

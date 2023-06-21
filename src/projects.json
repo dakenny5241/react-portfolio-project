@@ -2,43 +2,43 @@
   {
     "id": 1,
     "title": "NoteTaker",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/5/5b/NoteTaker.png/revision/latest?cb=20160719055423",
+    "image": "./assets/images/noteTaker.png",
     "github repo":"https://github.com/dakenny5241/note-taker",
-    "application link": "The Krusty Krab"
+    "application link": "https://dakenny5241.github.io/NoteTaker/"
   },
   {
     "id": 2,
     "title": "Readsky",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "github repo": "Restaurant Owner",
-    "application link": "A Giant Anchor"
+    "image": "./assets/images/readsky.png",
+    "github repo": "https://github.com/dakenny5241/readsky",
+    "application link": "https://readsky.herokuapp.com/"
   },
   {
     "id": 3,
     "title": "password-generator",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "github repo": "Cashier",
-    "application link": "An Easter Island Head"
+    "image": "./assets/images/password-generator.png",
+    "github repo": "https://github.com/dakenny5241/password-generator",
+    "application link": "https://dakenny5241.github.io/password-generator/"
   },
   {
     "id": 4,
     "title": "Jobs-portfolio",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "github repo": "Boy Genius",
-    "application link": "A Secret Laboratory"
+    "image": "./assets/images/jobs-portfolio.png",
+    "github repo": "https://github.com/dakenny5241/jobs-portfolio",
+    "application link": "https://dakenny5241.github.io/Jobs-portfolio/"
   },
   {
     "id": 5,
     "title": "Filmsity",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "github repo": "A Cowardly Dog",
-    "application link": "Nowhere, Kansas"
+    "image": "./assets/images/filmsity.png",
+    "github repo": "https://github.com/dakenny5241/filmsity",
+    "application link": "https://dakenny5241.github.io/Filmsity/"
   },
   {
     "id": 6,
     "title": "Develop-challange-02",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "github repo": "Student",
-    "application link": "Bluffington"
+    "image": "./assets/images/develop-challange-02.png",
+    "github repo": "https://github.com/dakenny5241/develop-challange-02",
+    "application link": "https://dakenny5241.github.io/Develop-challange-02/"
   }
 ]
