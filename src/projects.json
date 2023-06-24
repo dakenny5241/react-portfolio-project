@@ -4,7 +4,7 @@
     "title": "NoteTaker",
     "image": "./assets/images/noteTaker.png",
     "githubRepo":"https://github.com/dakenny5241/note-taker",
-    "applicationLink": "https://dakenny5241.github.io/NoteTaker/"
+    "applicationLink": "https://gentle-scrubland-97786.herokuapp.com/"
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "title": "password-generator",
     "image": "./assets/images/password-generator.png",
     "githubRepo": "https://github.com/dakenny5241/password-generator",
-    "applicationLink": "https://dakenny5241.github.io/password-generator/"
+    "applicationLink": "https://dakenny5241.github.io/password-generator"
   },
   {
     "id": 4,
@@ -32,7 +32,7 @@
     "title": "Filmsity",
     "image": "./assets/images/filmsity.png",
     "githubRepo": "https://github.com/dakenny5241/filmsity",
-    "applicationLink": "https://dakenny5241.github.io/Filmsity/"
+    "applicationLink": "https://monacx.github.io/film-sity/"
   },
   {
     "id": 6,
