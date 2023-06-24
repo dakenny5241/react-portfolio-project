@@ -1,6 +1,7 @@
 import React from 'react';
 import ProjectCard from "../ProjectCard";
 import projects from "../../projects.json";
+import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Portfolio() {
   return (
     <div>
@@ -11,7 +12,7 @@ export default function Portfolio() {
           title={project.title}
           image={project.image}
           github repo={project.githubRepo}
-          application link={project.applicationlink}
+          application link={project.applicationLink}
         />
       ))}
     </div>

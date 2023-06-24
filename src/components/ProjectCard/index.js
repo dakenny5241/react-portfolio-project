@@ -1,11 +1,15 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import "./style.css";
 
 function projectCard(props) {
+  console.log("props = ",props);
+  console.log("gituhRepo= ",props.githubRepo);
+  console.log("applicationLink= ",props.applicationLink) ;
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.name} src={props.image} />
+      <a target="_blank" rel="noopener noreferrer" href={props.link}><img alt={props.name} src={props.image} /></a>
       </div>
       <div className="content">
         <ul>
@@ -13,16 +17,13 @@ function projectCard(props) {
             <strong>Title:</strong> {props.title}
           </li>
           <li>
-            <strong>Github repo:</strong> {props.githubRepo}
+            <strong>Github repo:</strong> {props.repo}
           </li>
           <li>
-            <strong>Application:</strong> {props.applicationlink}
+            <strong>Application:</strong> {props.link}
           </li>
         </ul>
       </div>
-      <span onClick={() => props.removeproject(props.id)} className="remove">
-        𝘅
-      </span>
     </div>
   );
 }

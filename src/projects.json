@@ -3,42 +3,42 @@
     "id": 1,
     "title": "NoteTaker",
     "image": "./assets/images/noteTaker.png",
-    "github repo":"https://github.com/dakenny5241/note-taker",
-    "application link": "https://dakenny5241.github.io/NoteTaker/"
+    "githubRepo":"https://github.com/dakenny5241/note-taker",
+    "applicationLink": "https://dakenny5241.github.io/NoteTaker/"
   },
   {
     "id": 2,
     "title": "Readsky",
     "image": "./assets/images/readsky.png",
-    "github repo": "https://github.com/dakenny5241/readsky",
-    "application link": "https://readsky.herokuapp.com/"
+    "githubRepo": "https://github.com/dakenny5241/readsky",
+    "applicationLink": "https://readsky.herokuapp.com/"
   },
   {
     "id": 3,
     "title": "password-generator",
     "image": "./assets/images/password-generator.png",
-    "github repo": "https://github.com/dakenny5241/password-generator",
-    "application link": "https://dakenny5241.github.io/password-generator/"
+    "githubRepo": "https://github.com/dakenny5241/password-generator",
+    "applicationLink": "https://dakenny5241.github.io/password-generator/"
   },
   {
     "id": 4,
     "title": "Jobs-portfolio",
     "image": "./assets/images/jobs-portfolio.png",
-    "github repo": "https://github.com/dakenny5241/jobs-portfolio",
-    "application link": "https://dakenny5241.github.io/Jobs-portfolio/"
+    "githubRepo": "https://github.com/dakenny5241/jobs-portfolio",
+    "applicationLink": "https://dakenny5241.github.io/Jobs-portfolio/"
   },
   {
     "id": 5,
     "title": "Filmsity",
     "image": "./assets/images/filmsity.png",
-    "github repo": "https://github.com/dakenny5241/filmsity",
-    "application link": "https://dakenny5241.github.io/Filmsity/"
+    "githubRepo": "https://github.com/dakenny5241/filmsity",
+    "applicationLink": "https://dakenny5241.github.io/Filmsity/"
   },
   {
     "id": 6,
     "title": "Develop-challange-02",
     "image": "./assets/images/develop-challange-02.png",
-    "github repo": "https://github.com/dakenny5241/develop-challange-02",
-    "application link": "https://dakenny5241.github.io/Develop-challange-02/"
+    "githubRepo": "https://github.com/dakenny5241/develop-challange-02",
+    "applicationLink": "https://dakenny5241.github.io/Develop-challange-02/"
   }
 ]

@@ -1,4 +1,5 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 let kennyPic = "/assets/images/IMG_Kenny.jpg";
 
 export default function AboutMe() {
