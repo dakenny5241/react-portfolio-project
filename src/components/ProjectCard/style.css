@@ -22,7 +22,7 @@
 .card > .content {
   padding-left: 1rem;
   padding-right: 1rem;
-  font-size: 15px;
+  font-size: 11px;
 }
 
 .card > .content > ul {
@@ -30,7 +30,7 @@
 }
 
 .card > .content > ul > li {
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 .card > .remove {
