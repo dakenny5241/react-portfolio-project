@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-let kennyPic = "/assets/images/IMG_Kenny.jpg";
+let kennyPic = "/assets/images/IMG_kenny.jpg";
 
 export default function AboutMe() {
   return (
