@@ -9,9 +9,9 @@
   {
     "id": 2,
     "title": "Readsky",
-    "image": "./assets/images/readsky.png",
-    "githubRepo": "https://github.com/dakenny5241/readsky",
-    "applicationLink": "https://readsky.herokuapp.com/"
+    "image": "./assets/images/readSky.png",
+    "githubRepo": "https://github.com/dakenny5241/readSky",
+    "applicationLink": "https://readSky.herokuapp.com/"
   },
   {
     "id": 3,
