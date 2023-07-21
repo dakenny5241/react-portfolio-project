@@ -1,0 +1,70 @@
+Nkem Okoro
+Fullstack Software Development
+ T:+447456583769
+Email:dakenny5241@gmail.com
+66 Groveland Road Tipton
+DY4 7TN.
+Westmidland UK.
+
+github repositary:github.com/dakenny5241
+https://dakenny5241.github.io/react-portfolio-project/
+https://dakenny5241.github.io/Jobs-portfolio/
+
+PERSONAL STATEMENT
+out of hunger for knowledge,combined with never give up attitude resulted in me becoming a software developer.I see my future wherever the biggest challenge is.any role that will allow my continued development.
+
+TECHNICAL SKILLS AND CERTIFICATIONS
+ <Programming languages:javascript,
+ <Full-stack web development
+ <React&Next.js
+ <Node.js,Express
+ <MYSQL.MongoDB,PWA,MERN.
+ <DEFI 101&DEFI201
+ <Lightning Network&Lightning Apps
+ <Blockchain&Bitcoin Programming
+
+ PROJECTS
+<Filmsity:Using HTML,CSS and Javascript.
+<ReadSky APP:Combination of backend.
+
+ FRONTEND PROFICIENCIE
+ HTML
+ CSS
+ JAVASCRIPT
+ API
+ BOOTRAP.
+ REACT
+
+ BACKEND PROFICIENCIE
+ Node.js,
+ EXPRESS.js
+ OOP,
+ MYSQL,
+ HANDLEBARS,
+ MongoDB,
+ GraphQL,
+ 
+
+CURRENT EXPERIENCE
+University of Birmingham coding bootcamp(2023).
+IMO State University Human Anatomy(2004-2009).
+
+PREVIOUS JOB EXPERIENCE
+Healthcare Support Worker
+<NHS black country mental health staff.Where team work and communication skills is 
+ mandetory for staffs to acquire.Helping the mental health patients carry out there day to day activities.providing qaulity care.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
