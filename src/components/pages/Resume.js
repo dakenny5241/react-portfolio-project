@@ -6,7 +6,7 @@ export default function Resume() {
     <div>
       <section id="resume">
           <h2>Resume</h2>
-          <a href="https://1drv.ms/t/s!AoUlVIq6GiBjiQX5uQm2EUKJ6ASU?e=OH5tFc">Download Resume</a>
+          <a href="https://pdf.ac/1z9Q2B">Download Resume</a>
           <h3>Frontend Proficiencies</h3>
           <ul>
             <li>HTML</li>
@@ -35,7 +35,7 @@ export default function Resume() {
         <br/>
         <a href="https://github.com/dakenny5241" target="_blank" rel="noopener noreferrer">GitHub</a>
         <br/>
-        <a href="https://1drv.ms/t/s!AoUlVIq6GiBjiQX5uQm2EUKJ6ASU?e=OH5tFc">Download Resume</a>
+        <a href="https://pdf.ac/1z9Q2B">Download Resume</a>
 
         <p>If you would like to get in touch with me, please feel free to email me at <a href="mailto:dakenny5241@gmail.com">dakenny5241@gmail.com</a>.</p>
         </div>
